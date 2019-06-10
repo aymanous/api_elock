@@ -19,7 +19,7 @@ A ce niveau, l'API écoute sur le port 8080.
 Exemple : http://localhost:8080/badges (fournit la liste des badges disponibles)
 
 ## Technologies utilisées :
-  - GOLANG
+  - GO
   - GORM (ORM GO<>MYSQL)
   - MYSQL
 

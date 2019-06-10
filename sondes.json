@@ -1,0 +1,1 @@
+{"api":{"host":"","port":8080,"timeoutSec":{"read":15,"write":15,"idle":60}},"monitoring":{"host":"","port":8081,"timeoutSec":{"read":15,"write":15,"idle":60}},"dbConfig":{"username":"root","password":"rootroot","host":"127.0.0.1","port":3000,"name":"elock","driver":"mysql"}}

@@ -1,0 +1,8 @@
+group: fr-lm-youpi
+name: api-youpi-probes
+version:
+  app: 0.0.8
+  build: 1
+incrementStrategy: app
+alias:
+- latest
